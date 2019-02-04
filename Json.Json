@@ -1,0 +1,15 @@
+/* Formato del Json para construir arbol binario */
+{
+    "treeBinary": [
+      70, 84, 85, 78, 80, 76, 49, 54, 51, 37, 40, 22
+    ]
+}
+
+/* Formato del Json para construir arbol binario y obtener el ancentro más común entre dos nodos */
+{
+  "treeBinary": [
+    70, 84, 85, 78, 80, 76, 49, 54, 51, 37, 40, 22
+  ],
+  "NodoOne": "51",
+  "NodoTwo": "37"    
+}
